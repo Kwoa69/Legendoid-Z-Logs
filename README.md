@@ -1,4 +1,4 @@
-#### Legendoid-Z-Logs
+### Legendoid-Z-Logs
 
 
 Ce script en Python permet de surveiller des fichiers log spécifiques et d'envoyer des notifications à des webhooks Discord lorsque de nouvelles entrées sont détectées. Vous pouvez configurer plusieurs fichiers log et webhooks Discord pour recevoir les notifications.
