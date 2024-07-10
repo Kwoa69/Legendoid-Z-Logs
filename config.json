@@ -1,0 +1,18 @@
+{
+    "files": [
+        {
+            "path": "C:/Chemin/Vers/LeFichier/A/Lire.log",
+            "webhook": "https://discord.com/api/webhooks/999999999999999999/OvGA_NGqOvGA_NGqOvGA_NGqOvGA_NGqOvGA_NGqOvGA_NGqOvGA_NGqOvGA_NGqOvGA_NGq"
+        },
+        {
+            "path": "C:/Chemin/Vers/LeFichier/A/Lire/destroy2.log",
+            "webhook": "https://discord.com/api/webhooks/999999999999999999/OvGA_NGqOvGA_NGqOvGA_NGqOvGA_NGqOvGA_NGqOvGA_NGqOvGA_NGqOvGA_NGqOvGA_NGq"
+        },
+        {
+            "path": "C:/Chemin/Vers/LeFichier/A/Lire/destroy3.log",
+            "webhook": "https://discord.com/api/webhooks/999999999999999999/OvGA_NGqOvGA_NGqOvGA_NGqOvGA_NGqOvGA_NGqOvGA_NGqOvGA_NGqOvGA_NGqOvGA_NGq"
+        }
+    ]
+}
+
+
