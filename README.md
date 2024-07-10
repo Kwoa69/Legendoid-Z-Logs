@@ -24,6 +24,6 @@ Pour lancer le script :
 ```python LegendoidzLogs.py```
 
 
-Notes : 
+### Notes : 
 - Surveillance en Temps Réel: Le script vérifie les fichiers log toutes les 10 secondes. Vous pouvez ajuster cet intervalle en modifiant la valeur ligne 46 
 - Gestion des Erreurs: Le script gère les erreurs potentielles telles que la lecture des fichiers ou l'envoi des messages aux webhooks Discord.
