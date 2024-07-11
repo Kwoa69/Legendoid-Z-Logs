@@ -29,5 +29,5 @@ Pour lancer le script :
 - Gestion des Erreurs: Le script gère les erreurs potentielles telles que la lecture des fichiers ou l'envoi des messages aux webhooks Discord.
 
 
-A venir : 
+Bikini Tools :
 https://steamcommunity.com/sharedfiles/filedetails/?id=2784972075
