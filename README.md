@@ -32,6 +32,7 @@ Pour lancer le script :
 Bikini Tools :
 https://steamcommunity.com/sharedfiles/filedetails/?id=2784972075
 
+06/08/2024
 Ajout de la fonction de globbing 
 
 *_
